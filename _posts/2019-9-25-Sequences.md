@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sequences
-catagories: Project
+catagories: C# Programming 
 ---
 
 A sequence is a line of executable code:
