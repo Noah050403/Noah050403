@@ -8,7 +8,7 @@ This can be done like this.
 ```csharp
 string words = "This is a string.";
 int number = 10;
-double decimal = 1.5;
+double Decimal = 1.5;
 char letter = "A";
 bool True = true;
 ```
