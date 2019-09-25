@@ -12,4 +12,4 @@ int z = x + y;
 Console.WriteLine(z);
 Console.ReadLine();
 ```
-This would output the integer 5.
+This would output the number 5.
