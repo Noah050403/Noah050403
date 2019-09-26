@@ -3,6 +3,7 @@ layout: post
 title: Selection
 catagories: C# Programming 
 ---
+![_config.yml](/images/config.jpg)
 ### If/Else Statements
 If statements only activate when a certain condition is met, the condition should be written in () and should equate to true or false.
 ```csharp
