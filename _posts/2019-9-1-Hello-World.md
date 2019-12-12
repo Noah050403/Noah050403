@@ -3,6 +3,8 @@ layout: post
 title: Hello World!
 categories: C# Programming
 ---
+![_config.yml](/images/pfp.png)
+
 To display something in the C# console the command is:
 
 ```csharp
